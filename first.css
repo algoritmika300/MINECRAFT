@@ -1,0 +1,27 @@
+header{
+    background-color: rgb(34, 50, 139);
+    text-align: center;
+    height: 110px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around
+}
+
+.menu-item{
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid bisque;
+    
+}
+body{
+    background-color: rgb(255, 223, 196);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(197, 196, 255);
+    padding: 10px;
+}
